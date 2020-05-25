@@ -1,0 +1,5 @@
+How to copy file from local to aws instance
+scp -i  ubuntuec2.pem  E:\MeetDr  ubuntu@ec2-18-217-11-240.us-east-2.compute.amazonaws.com:code
+
+How to copy file folders from local to aws instance
+scp -i  ubuntuec2.pem -r E:\vista\vista2.0  ubuntu@ec2-18-217-11-240.us-east-2.compute.amazonaws.com:code
