@@ -1,0 +1,35 @@
+hello every one
+
+In this Article I am going to talk about my AWS cloud journey
+
+Our lives took an unanticipated turn with the coronavirus pandemic. It has affected billions of people around the world in lot many ways ,it led us to find new ways to solve our problems and that’s when AWS came into picture
+
+I am full stack developer at a start-up where we are trying to build a video conferencing web application , using google webRTC and Kurento media server
+
+Tech-Stack : 	(frontend):HTML, CSS , JS,  jQuery
+		(backend) :Java
+		(database): mysql
+		(on premise Data Center)
+
+The pandemic caused all of us lot of problems, and the problem I faced was ,not able to reach over servers as we have on premise server architecture , we cant access them remotely
+then I started to search how to solve our server Issues , how to make it accessible to everyone, then after some research I came to know about AWS and some of its services and got to know briefly about EC2 service
+
+I saw lot of videos how to create and launch ec2 instance then make it accessible
+after some learning and experimenting, successfully launched instance and installed our required services in it.
+
+after started using one service after another of cloud I developed a lot interest over the period and decided to embark the cloud
+
+on 08-May-2020 I decided to go for AWS Developer Associate Certification
+
+since then I kept learning something daily about AWS
+
+I started tweeting my learnings regularly and followed fellow cloud enthusiasts who inspires me through their journeys
+
+i would also like to thank @johanrin for his @freecodecamp article (about how he successfully completed # AWS Certifications) which boosted my confidence
+
+That’s it for now 
+and I gonna keep sharing my experience and thoughts about my software journey and lot more.
+
+If I can learn cloud, you can too, don’t be afraid to start you Journey
+
+Best wishes to everyone on their cloud journeys.

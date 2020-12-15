@@ -1,0 +1,8 @@
+sudo nano /etc/ssh/sshd_config
+
+uncomment permitrootlogin and write yes
+
+sudo nano .ssh/authorized_keys
+
+
+remove till sleep 10

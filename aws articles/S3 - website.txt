@@ -1,0 +1,1 @@
+how to create and host to s3 and automate the process using code pipeline

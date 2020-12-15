@@ -3,3 +3,10 @@ scp -i  ubuntuec2.pem  E:\MeetDr  ubuntu@ec2-18-217-11-240.us-east-2.compute.ama
 
 How to copy file folders from local to aws instance
 scp -i  ubuntuec2.pem -r E:\vista\vista2.0  ubuntu@ec2-18-217-11-240.us-east-2.compute.amazonaws.com:code
+
+
+how to Download Files in remote System from Web
+
+wget //Download Link
+
+wget -b //download link(it will downloaded in backgorund)
